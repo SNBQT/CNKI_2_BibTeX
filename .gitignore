@@ -111,8 +111,3 @@ tests/
 
 # distribution
 .pypirc
-
-# custom
-.DS_Store
-*.bib
-*.net
